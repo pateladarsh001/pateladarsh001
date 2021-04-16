@@ -17,4 +17,3 @@ I'm a Computer Science student 🎓 at the [University of Manitoba](https://uman
   <img height = "200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateladarsh001&layout=compact&include_all_commits=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28&" />
 </a>
 
-----
