@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello, I'm Adarsh Patel 👋
 
 <!--
 **pateladarsh001/pateladarsh001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Computer Science student 🎓 at the [University of Manitoba](https://umanitoba.ca/).<br> Web and Android applications developer who is fascinated by everything CS🖥️ related.
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Adarsh.Patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-patel-91134b193/)](https://www.linkedin.com/in/adarsh-patel-91134b193/)
+[![Instagram Badge](https://img.shields.io/badge/-pateladarsh001-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pateladarsh001/)](https://www.instagram.com/pateladarsh001/)
+[![Website Badge](https://img.shields.io/badge/-pateladarsh001.github.io-3F51B5?style=flat-square&logo=HTML5&logoColor=white&link=https://pateladarsh001.github.io/)](https://pateladarsh001.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-pateladarsh001.gmail.com-B03A2E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pateladarsh001@gmail.com)](mailto:pateladarsh001@gmail.com)
