@@ -10,5 +10,9 @@ I'm a Computer Science student 🎓 at the [University of Manitoba](https://uman
 [![Website Badge](https://img.shields.io/badge/-pateladarsh001.github.io-3F51B5?style=flat-square&logo=HTML5&logoColor=white&link=https://pateladarsh001.github.io/)](https://pateladarsh001.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-pateladarsh001.gmail.com-B03A2E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pateladarsh001@gmail.com)](mailto:pateladarsh001@gmail.com)
 
-
-[![User_Stats](https://github-readme-stats.vercel.app/api?username=pateladarsh001&layout=compact&show_icons=true&theme=tokyonight&line_height=27)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pateladarsh001&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](#)
+<a href="#">
+  <img height = "200em" align="center" src="https://github-readme-stats.vercel.app/api?username=pateladarsh001&layout=compact&show_icons=true&theme=tokyonight&line_height=27" />
+</a>
+<a href="#">
+  <img height = "200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateladarsh001&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28&?hide=html" />
+</a>
