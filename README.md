@@ -13,11 +13,11 @@ I'm a Computer Science student 🎓 at the [University of Manitoba](https://uman
 ---
 I have worked with : 
 
-[![Java Badge](https://img.shields.io/badge/-Java-orange?=for-the-badge&logo=Java&logoColor=white)](#)
-[![Python Badge](https://img.shields.io/badge/-Python-steelblue?=for-the-badge&logo=python&logoColor=white)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=white)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-steelblue?style=for-the-badge&logo=python&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS-3F51B5?style=for-the-badge&logo=CSS3&logoColor=white)](#)
 [![HTML Badge](https://img.shields.io/badge/-HTML-B03A2E?style=for-the-badge&logo=HTML5&logoColor=white)](#)
-[![Django Badge](https://img.shields.io/badge/-Django-darkgreen?=for-the-badge&logo=django&logoColor=white)](#)
+[![Django Badge](https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=django&logoColor=white)](#)
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)](#)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/-PHP-indianred?style=for-the-badge&logo=php&logoColor=white)](#)
