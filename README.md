@@ -26,7 +26,7 @@ I have worked with :
 
 I am currently learning and developing further skills in : 
 
-[![Flutter Badge](https://img.shields.io/badge/-Flutter-blue?style=-square&logo=flutter&logoColor=white)](#)
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)](#)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=-square&logo=JavaScript&logoColor=white)](#)
 [![NODE JS Badge](https://img.shields.io/badge/-Node.js-darkslateblue?style=-square&logo=Node.JS&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/-C++-salmon?style=-square&logo=C++&logoColor=white)](#)
