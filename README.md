@@ -1,4 +1,7 @@
+<p>
 <h3 align="center"> Hello, I'm Adarsh Patel 👋</h3>
+<h3 align="right"> <img src="https://komarev.com/ghpvc/?username=pateladarsh001" alt="Pateladarsh001" /> </>
+</p>
 
 ---
 
