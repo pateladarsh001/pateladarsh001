@@ -40,6 +40,5 @@ I am currently learning and developing further skills in :
 <a href="#">
   <img height = "200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateladarsh001&include_all_commits=true&count-private=true&layout=compact&include_all_commits=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
-<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekMaira10" alt="AbhishekMaiara10" /> </p>
+<p align="left"><br><img src="https://komarev.com/ghpvc/?username=AbhishekMaira10" alt="AbhishekMaiara10" /> </p>
