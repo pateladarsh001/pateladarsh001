@@ -43,6 +43,6 @@ I am currently learning and developing further skills in :
 </a>
 -->
 
-<a href="https://app.daily.dev/Pateladarsh001"><img src="https://api.daily.dev/devcards/42c5ec137146413c969d3cfbdad0e121.png?r=dy4" width="400" alt="Adarsh Patel's Dev Card"/></a>
+<a href="https://app.daily.dev/Pateladarsh001"><img src="https://api.daily.dev/devcards/42c5ec137146413c969d3cfbdad0e121.png?r=ch9" width="250" alt="Adarsh Patel's Dev Card"/></a>
 
 <!--[//]: # (<p align="left"><br><img src="https://komarev.com/ghpvc/?username=pateladarsh001" alt="pateladarsh001" /> </p>)-->
