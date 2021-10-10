@@ -35,7 +35,7 @@ I am currently learning and developing further skills in :
 
 ---
 <a href="#">
-  <img height = "200em" align="center" src="https://github-readme-stats.vercel.app/api?username=pateladarsh001&layout=compact&include_all_commits=true&count-private=true&show_icons=true&theme=tokyonight&line_height=27&hide=issues" />
+  <img height = "200em" width = "50em" align="center" src="https://github-readme-stats.vercel.app/api?username=pateladarsh001&layout=compact&include_all_commits=true&count-private=true&show_icons=true&theme=tokyonight&line_height=27&hide=issues" />
 </a>
 <!--
 <a href="#">
