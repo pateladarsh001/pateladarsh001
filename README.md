@@ -36,11 +36,12 @@ I am currently learning and developing further skills in :
 ---
 <a href="#">
       <img height = "200em" align="top" src="https://github-readme-stats.vercel.app/api?username=pateladarsh001&layout=compact&include_all_commits=true&count-private=true&show_icons=true&theme=tokyonight&line_height=27&hide=issues" />
+        <img height = "100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateladarsh001&include_all_commits=true&count-private=true&layout=compact&include_all_commits=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
   <a href="https://app.daily.dev/Pateladarsh001"><img src="https://api.daily.dev/devcards/42c5ec137146413c969d3cfbdad0e121.png?r=ch9" width="350" alt="Adarsh Patel's Dev Card"/></a>
 </a>
 <!--
 <a href="#">
-  <img height = "100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateladarsh001&include_all_commits=true&count-private=true&layout=compact&include_all_commits=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+
 </a>
 -->
 
